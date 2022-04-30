@@ -19,7 +19,7 @@ The data is accurate to that available on the zomato website until 15 March 2019
 
 ### Data Parameters Visualised:
 
-Through our project we aimed to determine w hat kind of a food is more popular in a locality, questions such as does the entire locality love mexican food? If yes then is that locality populated by a particular sect of people for ex: South Indians or North Indians who are. These kind of analysis can be done using the data parameters that have been visualised. Some of these parameters were:  
+Through our project we aimed to determine w hat kind of a food is more popular in a locality, questions such as does the entire locality love mexican food? If yes then is that locality populated by a particular sect of people for ex: South Indians or North Indians. These kind of analysis can be done using the data parameters that have been visualised. Some of these parameters were:  
 • Top 10 restaurants in an area  
 • Approximate money spent by a customer in a particular restaurant  
 • Word Cloud of the most popular restaurants in an area based on the cuisine  
